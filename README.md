@@ -1,16 +1,14 @@
-### Hi there 👋
+### Holaa 👋
 
-<!--
-**jvas28/jvas28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Julio, a Web and Mobile Developer. When I'm not coding I'm spending time with my family or playing my guitar.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: he/him
+- ⭐ My favorite technologies are Javascript and PHP
+- 🔭 I’m currently working on AirLST GmbH 
+- 🌱 I’m currently learning 🇩🇪 Deutsch and Rust
+- 👯 I’m looking to collaborate in Open Source projects
+- 💬 Ask me about React, React Native, Vue, Laravel
+- 📫 You can reach by email: jvasconez28@gmail.com
+- I speak: :es: Spanish and :us: English
+
