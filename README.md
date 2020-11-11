@@ -12,3 +12,5 @@ I'm Julio, a Web and Mobile Developer. When I'm not coding I'm spending time wit
 - 📫 You can reach by email: jvasconez28@gmail.com
 - I speak: :es: Spanish and :us: English
 
+
+[![Julio's github stats](https://github-readme-stats.vercel.app/api?username=jvas28)](https://vasconez.dev)
