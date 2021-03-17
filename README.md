@@ -5,7 +5,7 @@ I'm Julio, a Web and Mobile Developer. When I'm not coding I'm spending time wit
 
 - 😄 Pronouns: he/him
 - ⭐ My favorite technologies are Javascript and PHP
-- 🔭 I’m currently working on AirLST GmbH 
+- 🔭 I’m currently working on Laravel, Livewire, Tailwind, Alpine JS, Vue and React
 - 🌱 I’m currently learning  🇮🇹 Italian | InertiaJS
 - 👯 I’m looking to collaborate in Open Source projects
 - 💬 Ask me about React, React Native, Vue, Laravel, Livewire
